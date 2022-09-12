@@ -1,2 +1,13 @@
 # Reddit-Client
-An app using the reddit API
+
+## Project Overview
+
+## Implementation Details
+
+#### Routes Required
+
+### Working with the 'Database'
+
+`getAllFromDatabase`:
+
+## Testing
